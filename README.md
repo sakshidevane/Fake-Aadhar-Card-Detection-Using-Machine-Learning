@@ -33,7 +33,7 @@ This project demonstrates the practical use of AI in **document verification and
 
 
 ## Prediction Interface
-<img width="238" height="311" alt="Result" src="https://github.com/user-attachments/assets/94f37ec9-deb2-485f-aaae-7a2aae3362e8" />
+<img width="1600" height="853" alt="Result" src="https://github.com/user-attachments/assets/94f37ec9-deb2-485f-aaae-7a2aae3362e8" />
 
 
 # 🎯 Project Objectives
